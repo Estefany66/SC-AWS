@@ -1,1 +1,1 @@
-# SC-AWS-
+# SC-AWS
