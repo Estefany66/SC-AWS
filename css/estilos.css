@@ -91,6 +91,14 @@ nav {
     margin-left: 20px;
 }
 
+
+.nav .enlaces-header a:hover {
+    
+    color: #922B21;
+}
+
+
+
 .hamburguer {
     width: 80px;
     height: 80px;
@@ -190,6 +198,8 @@ nav {
     background: #DC143C;
     transition: all .5s;   
 }
+
+
 
 .articulo:hover > h3{
     transition: all .5s;
