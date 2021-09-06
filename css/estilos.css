@@ -181,11 +181,24 @@ nav {
     margin-bottom: 30px;
     border-radius: 10px;
     padding: 45px 30px 60px 30px;
-    transition: 0.5s;
+    transition: all .5s;
+    cursor: pointer;
 }
 
 .articulo:hover {
     box-shadow: 0 4px 10px rgba(17, 29, 48, .26);
+    background: #DC143C;
+    transition: all .5s;   
+}
+
+.articulo:hover > h3{
+    transition: all .5s;
+    color: #FFFFFF;    
+}
+
+.articulo:hover > a{
+    transition: all .5s;
+    color: #FFFFFF;    
 }
 
 .articulo>i {
@@ -206,6 +219,8 @@ nav {
     margin-top: 30px;
 }
 
+
+
 .articulo>p {
     font-weight: 100;
     color: #5D6678;
@@ -220,7 +235,7 @@ nav {
 }
 
 .articulo>a:hover {
-    color: #7B241C;
+    color: #FFA500;
     transition: color .5s;
 }
 
@@ -264,6 +279,24 @@ nav {
     font-size: 14px;
     border-radius: 5px;
     box-shadow: 0 8px 32px rgba(146, 43, 33);
+    transition: all .5s;
+}
+
+.textos-questions>a:hover {
+    margin: 28px 0 0 0;
+    width: 130px;
+    display: inline-block;
+    background: #922B21 ;
+    text-align: center;
+    color: #fff;
+    padding: 12px 0;
+    text-decoration: none;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 0 8px 32px rgba(146, 43, 33);
+    transition: all .5s;
 }
 
 footer {
