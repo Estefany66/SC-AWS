@@ -3,9 +3,8 @@
 ## Table Contenido.
 1. [Introducción](#introduccion)
 2. [Información General](#informacion-general)
-3. [Herramientas e Instalciones](#herramientas-e-instalaciones)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+3. [Herramientas y Servicios](#herramientas-y-Servicios)
+
 ### Introducción
 ***
 Implementar una web Responsive donde todos los alumnos puedan atraves de un chat 
@@ -31,42 +30,27 @@ puedan solucionar problemas o encontrar la información que estaban buscando con
 * [Planner](https://tasks.office.com/usmp.pe/es-PE/Home/Planner/)
 * [Azure DevOps](https://dev.azure.com/)
 
-## Herramientas e Instaladores
+## Herramientas y Servicios
 ***
+#Herramientas:
+Para este Sitio Web utilizaremos las siguientes Herramientas
+* **Visual code:** Ejecutor de codigo
+* **GitHub:** Repositorio de Codigo.
+* **Planner:**Planificador de tareas.
+* **Azure DevOps:** Almacenador de todos los productos presentados.
+
+#Servicios:
 Para este Sitio Web utilizaremos los siguientes  servicios de amazon
-> **Amazon S3:** Almacenador del sitio web (Front-end)
-> **Amazon Lex:** ChatBot Asistente inteligente.
-> **Lambda:** Ejecutor de codigo.
-> **Amazon RDS:** Base de datos
-> **Api Gatewey:** Habilita la conexión entre los servicios y los clientes
-> **Amazon Location:** Ubicación, Localización-Gps
+* **Amazon S3:** Almacenador del sitio web (Front-end)
+* **Amazon Lex:** ChatBot Asistente inteligente.
+* **Lambda:** Ejecutor de codigo.
+* **Amazon RDS:** Base de datos
+* **Api Gatewey:** Habilita la conexión entre los servicios y los clientes
+* **Amazon Location:** Ubicación, Localización-Gps
 
 ```
 $ https://github.com/Estefany66/SC-AWS.git
 $ https://sc-aws-1.s3.amazonaws.com/SC-AWS-1/index.html
-$ npm install
-$ npm start
+
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+
