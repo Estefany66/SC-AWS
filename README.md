@@ -34,17 +34,16 @@ puedan solucionar problemas o encontrar la información que estaban buscando con
 ## Herramientas e Instaladores
 ***
 Para este Sitio Web utilizaremos los siguientes  servicios de amazon
-> Amazon S3
-    Almacenador del sitio web (Front-end)
-> Amazon Lex
-> Lambda
-> Amazon RDS
-> Api Gatewey 
-> Amazon Location
+> **Amazon S3:** Almacenador del sitio web (Front-end)
+> **Amazon Lex:** ChatBot Asistente inteligente.
+> **Lambda:** Ejecutor de codigo.
+> **Amazon RDS:** Base de datos
+> **Api Gatewey:** Habilita la conexión entre los servicios y los clientes
+> **Amazon Location:** Ubicación, Localización-Gps
 
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
+$ https://github.com/Estefany66/SC-AWS.git
+$ https://sc-aws-1.s3.amazonaws.com/SC-AWS-1/index.html
 $ npm install
 $ npm start
 ```
