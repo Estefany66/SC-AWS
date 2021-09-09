@@ -2,8 +2,8 @@
 ![image.png](https://i.ibb.co/CKvw9TW/logo-aws.png)
 ## Table Contenido.
 1. [Introducción](#introduccion)
-2. [Información General](#informacion general)
-3. [Herramientas e Instalciones](#herramientas e instalaciones)
+2. [Información General](#informacion-general)
+3. [Herramientas e Instalciones](#herramientas-e-instalaciones)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### Introducción
