@@ -1,5 +1,5 @@
 # SC-AWS
-Introducción
+#Introducción:
 Implementar una web Responsive donde todos los alumnos puedan atraves de un chat 
 comunicarse en diferentes áreas y así estar enterados de acontecimientos, eventos 
 que se den en la universidad, también implementar un GPS para cada alumno y así 
