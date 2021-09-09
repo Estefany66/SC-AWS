@@ -25,9 +25,7 @@ poder registrarlos y ponerles asistencia utilizando un sensor que sea reconocido
 por un celular, utilizando los servicios de AWS Amazon. 
 ### Screenshot
 
-
-      CHAT CAMPUS FIA    | ![image.png](https://i.ibb.co/CKvw9TW/logo-aws.png)
-:-------------------------:|:-------------------------:
+![image.png](https://i.ibb.co/CKvw9TW/logo-aws.png)
 
 ## Technologies
 ***
