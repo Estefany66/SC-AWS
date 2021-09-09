@@ -26,7 +26,7 @@ por un celular, utilizando los servicios de AWS Amazon.
 ### Screenshot
 
 
-      CHAT CAMPUS FIA    | ![image.png](https://i.ibb.co/CKvw9TW/logo-aws.png
+      CHAT CAMPUS FIA    | ![image.png](https://i.ibb.co/CKvw9TW/logo-aws.png)
 :-------------------------:|:-------------------------:
 
 ## Technologies
