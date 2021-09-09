@@ -30,9 +30,18 @@ puedan solucionar problemas o encontrar la información que estaban buscando con
 * [Arquitectura - Miro](https://miro.com/app/board/o9J_l09mz1w=/)
 * [Planner](https://tasks.office.com/usmp.pe/es-PE/Home/Planner/)
 * [Azure DevOps](https://dev.azure.com/)
-## Installation
+
+## Herramientas e Instaladores
 ***
-A little intro about the installation. 
+Para este Sitio Web utilizaremos los siguientes  servicios de amazon
+> Amazon S3
+    Almacenador del sitio web (Front-end)
+> Amazon Lex
+> Lambda
+> Amazon RDS
+> Api Gatewey 
+> Amazon Location
+
 ```
 $ git clone https://example.com
 $ cd ../path/to/the/file
