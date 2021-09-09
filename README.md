@@ -24,7 +24,7 @@ que se den en la universidad, tambi√©n implementar un GPS para cada alumno y as√
 poder registrarlos y ponerles asistencia utilizando un sensor que sea reconocido 
 por un celular, utilizando los servicios de AWS Amazon. 
 ### Screenshot
-![image.png](https://cultureofgaming.com/wp-content/uploads/2019/01/amazon-logo-vector-png-amazon-logo-vector-png-download-768.jpg)
+![image.png](https://ibb.co/s9Qg1Mt)
 ## Technologies
 ***
 A list of technologies used within the project:
