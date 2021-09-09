@@ -1,9 +1,5 @@
 #Introducción:
-Implementar una web Responsive donde todos los alumnos puedan atraves de un chat 
-comunicarse en diferentes áreas y así estar enterados de acontecimientos, eventos 
-que se den en la universidad, también implementar un GPS para cada alumno y así 
-poder registrarlos y ponerles asistencia utilizando un sensor que sea reconocido 
-por un celular, utilizando los servicios de AWS Amazon.
+
 #Metodologia.
 Comenzamos nuestra arquitectura con el usuario que ingresa al CHAT CAMPUS mediante 
 la web en su ordenador, este chat recibe la información mediante el API Gateway, 
@@ -15,16 +11,20 @@ específica, el agente virtual de texto les va a ofrecer una experiencia instant
 los usuarios ya que estos necesitan respuestas rápidas y precisas a cualquier hora del día y
 puedan solucionar problemas o encontrar la información que estaban buscando con urgencia.
 ## Table of Contents
-1. [General Info](#general-info)
+1. [Introducción](#introduccion)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+Implementar una web Responsive donde todos los alumnos puedan atraves de un chat 
+comunicarse en diferentes áreas y así estar enterados de acontecimientos, eventos 
+que se den en la universidad, también implementar un GPS para cada alumno y así 
+poder registrarlos y ponerles asistencia utilizando un sensor que sea reconocido 
+por un celular, utilizando los servicios de AWS Amazon. 
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![image.png](/.attachments/image-55a18228-5974-4eae-a0f4-68888ad25d4a.png)
 ## Technologies
 ***
 A list of technologies used within the project:
