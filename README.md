@@ -1,5 +1,5 @@
-#Introducción:
-
+#GRUPO: SC AWS 
+![image.png](https://i.ibb.co/CKvw9TW/logo-aws.png)
 #Metodologia.
 Comenzamos nuestra arquitectura con el usuario que ingresa al CHAT CAMPUS mediante 
 la web en su ordenador, este chat recibe la información mediante el API Gateway, 
@@ -10,29 +10,36 @@ realizar sus preguntas para acceder a los diferentes pabellones, ubicación (GPS
 específica, el agente virtual de texto les va a ofrecer una experiencia instantánea para 
 los usuarios ya que estos necesitan respuestas rápidas y precisas a cualquier hora del día y
 puedan solucionar problemas o encontrar la información que estaban buscando con urgencia.
-## Table of Contents
+## Table Contenido.
 1. [Introducción](#introduccion)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
+2. [Información General](#informacion general)
+3. [Herramientas e Instalciones](#herramientas e instalaciones)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-### General Info
+### Introducción
 ***
 Implementar una web Responsive donde todos los alumnos puedan atraves de un chat 
 comunicarse en diferentes áreas y así estar enterados de acontecimientos, eventos 
 que se den en la universidad, también implementar un GPS para cada alumno y así 
 poder registrarlos y ponerles asistencia utilizando un sensor que sea reconocido 
 por un celular, utilizando los servicios de AWS Amazon. 
-### Screenshot
 
-![image.png](https://i.ibb.co/CKvw9TW/logo-aws.png)
 
-## Technologies
+## Descripción
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+El usuario que ingresa al CHAT CAMPUS mediante la web en su ordenador, este chat recibe
+la información mediante el API Gateway,componente cuya principal función es la de habilitar
+la conexión entre los servicios y los clientes, trabajando en su back-end mediante Amazon S3,
+GitHub y Visual Studio Code.
+Luego seguimos con Amazon Lex, que es un chat bot donde los usuarios (estudiantes) podrán 
+realizar sus preguntas para acceder a los diferentes pabellones, ubicación (GPS) e información 
+específica, el agente virtual de texto les va a ofrecer una experiencia instantánea para 
+los usuarios ya que estos necesitan respuestas rápidas y precisas a cualquier hora del día y
+puedan solucionar problemas o encontrar la información que estaban buscando con urgencia.
+
+* [Arquitectura - Miro](https://miro.com/app/board/o9J_l09mz1w=/)
+* [Planner](https://tasks.office.com/usmp.pe/es-PE/Home/Planner/)
+* [Azure DevOps](https://dev.azure.com/)
 ## Installation
 ***
 A little intro about the installation. 
