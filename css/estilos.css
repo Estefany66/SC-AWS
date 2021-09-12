@@ -555,3 +555,18 @@ footer {
         margin-bottom: 40px;
     }
 }
+
+
+
+
+
+
+
+.caja {
+    display: flex;
+    background:#e2e2e275;
+}
+.caja > div{
+    width: 40%;
+    padding: 80px;
+}
